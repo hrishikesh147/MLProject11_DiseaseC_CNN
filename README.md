@@ -10,3 +10,6 @@ Update the components
 Update the pipeline
 Update the main.py
 Update the dvc.yaml
+
+
+https://github.com/hrishikesh147/Bird-disease-classification/raw/main/Chicken-fecal-images.zip
